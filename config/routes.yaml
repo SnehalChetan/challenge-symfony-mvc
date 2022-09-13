@@ -6,3 +6,9 @@ controllers:
 'app_lucky_number':
     path : /lucky/number
     controller : App\Controller\LuckyController::number
+
+
+# Challenge-symfony-MVC
+#'app_learning':
+#path: /learning/about-me
+#controller: App\Controller\LearningController::string
